@@ -1,4 +1,19 @@
-# 🛒 Amazon Sales Analytics Dashboard
+# 🛒 *Amazon Sales Analytics Dashboard*
+
+## Problem Statement
+
+E-commerce companies generate large amounts of sales data daily. However, raw data does not provide clear business insights.
+
+This project aims to analyze Amazon sales data to identify:
+
+- Sales trends over time
+- Top-performing products
+- Category-wise contribution
+- Impact of discounts on sales
+
+---
+
+
 
 ## Project Overview
 
