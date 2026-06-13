@@ -58,18 +58,15 @@ The goal is to simulate a real-world e-commerce analytics project and convert ra
 
 ## Power BI Dashboard
 
+Power BI dashboard is currently in development.
 
-The project also includes an interactive Power BI dashboard for deeper business insights.
+The `.pbix` file structure has been added and will be updated with full visuals including:
 
-Features:
-
-- Sales Overview Dashboard
-- Category Performance Analysis
-- Top Products Visualization
+- Sales Overview
+- Category Performance
+- Top Products
 - Monthly Trends
-- Profit & Discount Insights
-
- File Location: `powerbi/dashboard.pbix`
+- Profit Analysis
 
 ## Key Insights
 
